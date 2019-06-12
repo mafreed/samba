@@ -1,2 +1,2 @@
 [samba]
-127.0.0.1 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=PEMFILELOCATION
+127.0.0.1 ansible_ssh_user=ubuntu ansible_sudo_pass='enter password'
